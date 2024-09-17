@@ -19,7 +19,7 @@ This project is a blog aggregator microservice built in Go. It involves creating
 - **Goose**: Manages database migrations.
 - **pgAdmin**: Database management tool to interact with PostgreSQL.
 
-## How to Run
+## Installation
 
 1. Clone the repository.
 2. Set up PostgreSQL and configure your environment variables.
